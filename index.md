@@ -115,7 +115,7 @@ Full list on [HAL](https://cv.hal.science/thomas-georges) and [ORCID](https://or
 - **My Thesis in 180 seconds - Regional final**  
   Available on [Youtube](https://www.youtube.com/watch?v=95r8EYCb5t4) (In french) - *March 2023*
 
-## AI for Fun
+## Data Science & Machine Learning Notebooks
 
 - [Notebook Tutorial Clustering and topic modelling](https://gite.lirmm.fr/tgeorges/clusteringtutorial)
 - [Notebook FCA processing for Disease Symptoms and Patient Profile](https://github.com/Hyrlos/Disease-Symptoms-and-Patient-Profile-Processing)
