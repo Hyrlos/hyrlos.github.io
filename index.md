@@ -5,7 +5,7 @@ layout: default
 [LinkedIn](https://www.linkedin.com/in/thomas-georges-pro/) · [ORCID](https://orcid.org/0000-0001-7483-2860) · [PhD thesis](https://theses.hal.science/tel-04736203v1) · [GitHub](https://github.com/Hyrlos)
 
 ## About
-  I am currently a Data Reliability Engineer at Volterres, a French green electricity supplier, where I make data flows reliable, automate processes and build new data integrations.
+  I am currently a Data Reliability Engineer at Volterres, a French green electricity supplier, where, within the IT department, I ensure the reliability of data flows between information systems, automate business processes and build new integrations.
   Before that, I spent two years as a Software Engineer at CERN, modernising the software ecosystem for continuous monitoring of critical technical services.
   I obtained my PhD at LIRMM studying "Agile engineering of software product lines for decision support applications in agriculture" in partnership with ITK.
   I did a Master's degree in Software and Web Architecture and Engineering at the University of Montpellier, where I also did my third year of a Bachelor's degree in Computer Science. During my Masters, I had the opportunity to spend a semester as an exchange student at the University of Helsinki in Finland.
@@ -31,7 +31,7 @@ layout: default
 
 - **Data Reliability Engineer - Volterres**  
   *November 2025 - Today | Volterres, Lyon, FRANCE*  
-  Responsible for the reliability of the company's data and business processes: improving existing data flows, automating recurring operations and developing new integrations with energy market partners, grid operators and accounting systems, including the e-invoicing reform. A technical all-rounder on the data side, from ingestion to monitoring.
+  Within the IT department, responsible for the reliability of data flows between the company's information systems: maintaining and improving existing interfaces, automating business processes and developing new integrations with energy market partners, grid operators and accounting systems, including the e-invoicing reform. A technical all-rounder, from back-end development to deployment and monitoring.
 - **Software Engineer - CERN**  
   *February 2024 - October 2025 | CERN (European Organization for Nuclear Research), Geneva, Switzerland*  
   Modernized and standardized the software ecosystem for continuous monitoring of critical technical services, improving reliability, scalability, and compliance with industry standards. Led the overhaul of delivery processes, infrastructure upgrades and DevOps enhancements to streamline operations and increase efficiency.
