@@ -31,7 +31,7 @@ layout: default
 
 - **Data Reliability Engineer - Volterres**  
   *November 2025 - Today | Volterres, Lyon, FRANCE*  
-  Responsible for the reliability of the company's data flows through software engineering: designing and developing back-end integrations with energy market partners, grid operators and accounting systems (REST APIs, file exchanges, e-invoicing reform), automating business processes, and hardening existing code with tests, error handling and monitoring. A technical all-rounder, from development to deployment.
+  Responsible for the reliability of the company's data flows through software engineering: designing and developing back-end integrations with energy market partners, grid operators and accounting systems (REST APIs, file exchanges, e-invoicing reform), automating business processes, and hardening existing code with tests, error handling and monitoring.
 - **Software Engineer - CERN**  
   *February 2024 - October 2025 | CERN (European Organization for Nuclear Research), Geneva, Switzerland*  
   Modernized and standardized the software ecosystem for continuous monitoring of critical technical services, improving reliability, scalability, and compliance with industry standards. Led the overhaul of delivery processes, infrastructure upgrades and DevOps enhancements to streamline operations and increase efficiency.
